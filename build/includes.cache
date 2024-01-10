@@ -1,0 +1,82 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "D:\\Project\\PTB\\build\\sketch\\PTB.ino.cpp",
+    "Include": "Keypad_I2C.h",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\Keypad_I2C"
+  },
+  {
+    "Sourcefile": "D:\\Project\\PTB\\build\\sketch\\PTB.ino.cpp",
+    "Include": "Keypad.h",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\Keypad\\src"
+  },
+  {
+    "Sourcefile": "D:\\Project\\PTB\\build\\sketch\\PTB.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "D:\\Project\\PTB\\build\\sketch\\PTB.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C"
+  },
+  {
+    "Sourcefile": "D:\\Project\\PTB\\build\\sketch\\PTB.ino.cpp",
+    "Include": "arduino-timer.h",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\arduino_timer-3.0.1\\src"
+  },
+  {
+    "Sourcefile": "D:\\Project\\PTB\\build\\sketch\\PTB.ino.cpp",
+    "Include": "max6675.h",
+    "Includepath": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\MAX6675_library"
+  },
+  {
+    "Sourcefile": "D:\\Project\\PTB\\build\\sketch\\PTB.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\Keypad_I2C\\Keypad_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\Keypad\\src\\Key.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\Keypad\\src\\Keypad.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Syukur Rahmatullah\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Syukur Rahmatullah\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C\\LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Syukur Rahmatullah\\Documents\\Arduino\\libraries\\MAX6675_library\\max6675.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

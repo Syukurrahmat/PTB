@@ -1,0 +1,32 @@
+#line 1 "D:\\Project\\PTB\\diagram.json"
+{
+  "version": 1,
+  "author": "Syukur Rahmatullah IM3",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 87, "left": 18.6, "attrs": {} },
+    { "type": "wokwi-membrane-keypad", "id": "keypad1", "top": -395.6, "left": 92, "attrs": {} },
+    {
+      "type": "wokwi-lcd2004",
+      "id": "lcd2",
+      "top": -147.2,
+      "left": -388,
+      "attrs": { "pins": "i2c" }
+    }
+  ],
+  "connections": [
+    [ "lcd2:SDA", "uno:A4", "green", [ "h-9.6", "v29" ] ],
+    [ "uno:A5", "lcd2:SCL", "green", [ "h-322.1", "v-153.7", "h-355.2" ] ],
+    [ "lcd2:VCC", "uno:3.3V", "red", [ "v220.9", "h178.2" ] ],
+    [ "lcd2:GND", "uno:GND.3", "black", [ "v211.2", "h207.2" ] ],
+    [ "keypad1:C4", "uno:2", "green", [ "v0" ] ],
+    [ "keypad1:C3", "uno:3", "green", [ "v0" ] ],
+    [ "keypad1:C2", "uno:4", "green", [ "v0" ] ],
+    [ "uno:5", "keypad1:C1", "green", [ "v0" ] ],
+    [ "keypad1:R4", "uno:6", "green", [ "v0" ] ],
+    [ "keypad1:R3", "uno:7", "green", [ "v0" ] ],
+    [ "keypad1:R2", "uno:8", "green", [ "v0" ] ],
+    [ "keypad1:R1", "uno:9", "green", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
