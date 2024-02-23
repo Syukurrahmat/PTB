@@ -1,7 +1,0 @@
-{
-    "board": "arduino:avr:nano",
-    "port": "COM7",
-    "sketch": "PTB.ino",
-    "output": "build",
-    "configuration": "cpu=atmega328old"
-}
